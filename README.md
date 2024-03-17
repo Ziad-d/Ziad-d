@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StachAPI](https://github.com/Ziad-d/Stach.API)
 
-- 🌱 I’m currently learning **Angular || .Net Core**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **ziadmo62@gmail.com**
 
