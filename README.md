@@ -16,10 +16,9 @@ https://drive.google.com/file/d/1WE9Vv6C0EXrpPnCWU4GqNE8jariDs0o0/view?usp=shari
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zziadm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zziadm_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zziadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zziadm" height="30" width="40" /></a>
+<a href="https://twitter.com/zziadm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zziadm_" height="30" width="40" /></a>
 <a href="https://instagram.com/zziadm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zziadm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ziad-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziad-d" height="30" width="40" /></a>
 </p>
 
 
