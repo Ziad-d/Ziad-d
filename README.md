@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [StachAPI](https://github.com/Ziad-d/Stach.API)
 
-- 🌱 I’m currently learning **Angular**
-
 - 📫 How to reach me **ziadmo62@gmail.com**
 
 - 📄 Know about my experiences [Resume](
@@ -23,8 +21,4 @@ https://drive.google.com/file/d/1WE9Vv6C0EXrpPnCWU4GqNE8jariDs0o0/view?usp=shari
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziad-d&show_icons=true&locale=en&layout=compact" alt="ziad-d" /></p>
-
-
-
-<h3 align="center">"It's not a bug; it's an undocumented feature." - Anonymous</h3>
 
