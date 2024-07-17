@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Saleh</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
-<h3 align="center">I build rock-solid backends that fuel the frontend's awesomeness. Now, I'm adding Angular to my arsenal.</h3>
+<h3 align="center">I build rock-solid backends that fuel the frontend's awesomeness.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziad-d&label=Profile%20views&color=0e75b6&style=flat" alt="ziad-d" /> </p>
@@ -10,7 +10,7 @@
 - 📫 How to reach me **ziadmo62@gmail.com**
 
 - 📄 Know about my experiences [Resume](
-https://drive.google.com/file/d/1WE9Vv6C0EXrpPnCWU4GqNE8jariDs0o0/view?usp=sharing)
+https://drive.google.com/file/d/1egzmqfcYtlVCkmyjWxyPQbzR7NIVaVcf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
